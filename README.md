@@ -30,3 +30,7 @@
   pip install sockets
   ```
   - Run the python anywhere on the system, before or after execution of the game.
+# Demo
+
+https://github.com/streetcodec/VSquareAssignment/assets/92046906/30b463e2-f103-4394-b8b5-47a880d7ca35
+
